@@ -8,6 +8,7 @@ Projeto de aceleração voltado para a criação de fluxos de trabalho inteligen
 
 ## 🚀 Objetivo do Projeto
 O **IA Reports** visa otimizar o processamento de bases de dados (ex: *Porsche Sales Data*), aplicando regras de negócio automatizadas para transformar dados brutos em informações tratadas, prontas para dashboards e insights estratégicos.
+
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/124d165b-8909-4402-b304-ccbb4a8a2d18" />
 
 
