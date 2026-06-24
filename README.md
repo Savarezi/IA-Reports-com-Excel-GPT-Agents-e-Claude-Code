@@ -1,5 +1,7 @@
 
 # IA Reports: Automação de Dados Porsche
+<img width="921" height="608" alt="image" src="https://github.com/user-attachments/assets/6ffc9e93-35ec-44e8-ba94-171232981d0b" />
+
 
 Projeto de aceleração voltado para a criação de fluxos de trabalho inteligentes, utilizando a integração de dados em Excel, agentes baseados em GPT e Claude Code para sanitização, análise e visualização de dados.
 
