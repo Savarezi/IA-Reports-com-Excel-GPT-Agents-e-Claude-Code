@@ -31,6 +31,10 @@ Para garantir a integridade dos dados, seguimos o esquema definido no `schema.md
 * **Amostragem:** Sempre inicie a análise com uma amostra do volume total de dados antes de processar toda a base.
 * **Privacidade:** **Nunca** utilize dados sensíveis (PII) em interações com IAs públicas. Sempre crie uma cópia anonimizada (removendo dados pessoais) antes de processar.
 
+## 🔗 Acesso ao Dashboard
+Visualize os dados processados e os insights gerados em tempo real através do link abaixo:
+[Acessar Dashboard Porsche Sales](https://porschesalesdashboard.netlify.app/)
+
 ## 💻 Como rodar o projeto
 1. Certifique-se de estar na raiz do projeto.
 2. Instale as dependências:
