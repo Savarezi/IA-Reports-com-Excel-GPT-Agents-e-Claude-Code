@@ -1,12 +1,15 @@
 
 # IA Reports: Automação de Dados Porsche
-<img width="921" height="608" alt="image" src="https://github.com/user-attachments/assets/6ffc9e93-35ec-44e8-ba94-171232981d0b" />
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/c33c9593-72c6-41a1-9ab0-026c46386e12" />
+
 
 
 Projeto de aceleração voltado para a criação de fluxos de trabalho inteligentes, utilizando a integração de dados em Excel, agentes baseados em GPT e Claude Code para sanitização, análise e visualização de dados.
 
 ## 🚀 Objetivo do Projeto
 O **IA Reports** visa otimizar o processamento de bases de dados (ex: *Porsche Sales Data*), aplicando regras de negócio automatizadas para transformar dados brutos em informações tratadas, prontas para dashboards e insights estratégicos.
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/124d165b-8909-4402-b304-ccbb4a8a2d18" />
+
 
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagem:** Python
